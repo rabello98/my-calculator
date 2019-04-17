@@ -1,5 +1,5 @@
 {
-  "name": "my-calculator",
+  "name": "my-calculator-calc",
   "version": "1.0.0",
   "description": "project for rollup example",
   "main": "dist/calculator.js",
