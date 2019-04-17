@@ -1,0 +1,29 @@
+{
+  "name": "my-calculator",
+  "version": "1.0.0",
+  "description": "project for rollup example",
+  "main": "dist/calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup --config"
+  },
+  "files": [
+    "src/*",
+    "dist/*.js"
+  ],
+  "keywords": [
+    "calculator",
+    "rollup",
+    "build"
+  ],
+  "author": "Nathan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabello98/my-calculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rabello98/my-calculator.git"
+  },
+  "homepage": "https://github.com/rabello98/my-calculator#readme"
+}
